@@ -1,3 +1,8 @@
+.row.mobile_two_column {
+  display: flex;
+}
+
 .mobile_two_column > * {
-  width: 50%;
+      flex: auto;
+      min-width: 30%;
 }
