@@ -1,14 +1,36 @@
-- [[Outputs/Recipes/index.md|index]]
-- [[Outputs/Recipes/Seafood Soup.md|Seafood Soup]]
-- [[Outputs/Recipes/Menus for B Type.md|Menus for B Type]]
-- [[Outputs/Recipes/White Bean Soup.md|White Bean Soup]]
-- [[Outputs/Recipes/No Tomato Tomato Sauce.md|No Tomato Tomato Sauce]]
-- [[Outputs/Recipes/Homemade gatorade.md|Homemade gatorade]]
-- [[Outputs/Recipes/Spinach pasta with sauteed mushrooms and parmesan.md|Spinach pasta with sauteed mushrooms and parmesan]]
-- [[Outputs/Recipes/Kefir.md|Kefir]]
-- [[Outputs/Recipes/Cook Right For Your Type.md|Cook Right For Your Type]]
-- [[Outputs/Recipes/frozen spinach.md|frozen spinach]]
-- [[Outputs/Recipes/Vegan Broth.md|Vegan Broth]]
+
+> [!multi-column]
+> > [!summary] Recently Created
+>>  ```dataview
+> list
+> from "Outputs/Recipes"
+> Sort file.ctime DESC
+> limit 7
+> 
+>> [!Todo] Recently Updated
+>>  ```dataview
+>> 	 TABLE WITHOUT ID
+>> 	 "\[" + file.name + "](" + file.name + ".md)" AS "Pages"
+>> 	from "Outputs/Recipes"
+>> 	Sort file.mtime DESC
+
+
+
+| Pages                                                                                                     |
+| --------------------------------------------------------------------------------------------------------- |
+| [index](index.md)                                                                                         |
+| [Seafood Soup](Seafood Soup.md)                                                                           |
+| [Menus for B Type](Menus for B Type.md)                                                                   |
+| [White Bean Soup](White Bean Soup.md)                                                                     |
+| [No Tomato Tomato Sauce](No Tomato Tomato Sauce.md)                                                       |
+| [Homemade gatorade](Homemade gatorade.md)                                                                 |
+| [Spinach pasta with sauteed mushrooms and parmesan](Spinach pasta with sauteed mushrooms and parmesan.md) |
+| [Kefir](Kefir.md)                                                                                         |
+| [Cook Right For Your Type](Cook Right For Your Type.md)                                                   |
+| [frozen spinach](frozen spinach.md)                                                                       |
+| [Vegan Broth](Vegan Broth.md)                                                                             |
+| [Suzy Karadsheh](Suzy Karadsheh.md)                                                                       |
+
 
 
 
