@@ -1,0 +1,191 @@
+---
+created: 2025-03-15
+---
+## Menus for B Type
+- [[Millet cereal]] with [[Raisins]] and [[maple syrup]] #breakfast
+- [[Kefir]] #snack
+- [[Cherries]] #snack 
+- [[Mashed sardines and lettuce]] on [[Ezekiel bread]] #lunch
+- [[Carrot sticks]]
+- [[Blueberry spelt muffin]]
+- [[Banana]]
+- [[Figs]] with [[goat cheese]] #breakfast 
+- [[Ezekiel bread|Ezekiel toast]] with [[raspberry preserves]] #breakfast 
+- [[Oranges]]
+- [[Banana-pineapple yogurt drink]] #snack 
+- [[Wasa bread]] with [[slice of cheese]] Fleeting:: link to cheese, bread, fruit index
+- [[Gingered squash soup]] #lunch 
+- [[Cranberry spelt muffin]] #snack 
+- [[Plums]]
+- [[Single-egg omelet with feta cheese and parsley]] #breakfast 
+- [[Essene toast]] with [[apple butter]] #breakfast 
+- [[Papaya juice]] #snack #breakfast 
+- [[Apricot-yogurt drink]] #snack 
+- [[Faro pilaf with goat cheese]] #lunch 
+- [[Cucumber with oil and vinegar]] #lunch 
+- [[Rice cakes]] with [[almond butter]] #snack 
+- [[Grapes]]
+- [[Oatmeal]] with [[Raisins]], [[Milk]], and [[maple syrup]] #breakfast 
+- [[Pineapple juice]]
+- [[Cherry-yogurt soup]] #lunch 
+- [[Pear spelt muffin]] #snack 
+- [[Ricotta]] with [[sauteed bananas]] #breakfast 
+- [[Mixed berry salad]] #snack 
+- [[Tuna salad and lettuce]] on [[Ezekiel bread]] #lunch 
+- [[Carrot-cucumber juice]] #lunch 
+- [[Walnut cookies]] #snack 
+- [[Almond-Rice Bread]] with [[Plum Preserves]] #breakfast 
+- [[Poached egg]] #breakfast 
+- [[Grapefruit]]
+- [[Papaya-banana yogurt drink]] #snack 
+- [[Mixed roots soup]] #lunch 
+- [[Grilled goat cheese sandwich]] #lunch 
+- [[Lemon squares]] #snack 
+- [[Oat flour-spelt pancakes]]  topped with [[sauteed pears]] or [[sauteed bananas]] #breakfast 
+- [[Grape juice]]
+- [[Pineapple-yogurt smoothie]] #snack 
+- [[Poached fruit over ricotta]] #lunch 
+- [[Yogurt with mixed plums]] #breakfast 
+- [[Ezekiel bread]] with [[almond butter]] #breakfast 
+- [[Mango-lime smoothie]] #snack 
+- [[Tuna salad]] on [[spelt bread]] #lunch 
+- [[Cole slaw]] #lunch 
+- [[Carrot-celery juice]]
+- [[Mixed fruit salad]] #snack 
+- [[Egg omelet]] with [[Gruyere]] #breakfast 
+- [[Ezekiel bread]] with [[butter]]
+- [[Yogurt]] with [[Banana]] and [[Raisins]] #snack 
+- [[Cream of lima bean soup]] #lunch 
+- [[Tossed salad]] #lunch 
+- [[Shortbread]] #snack 
+- [[Poached pears]]
+- [[Banana oat muffin]] #breakfast 
+- [[Pineapple chunks]] #breakfast 
+- [[Cottage cheese and grapes]] #snack 
+- [[Spinach pasta with sauteed mushrooms and parmesan]]
+- [[Rye bread]] with [[plum preserves]]
+- [[Banana-yogurt smoothie]] #snack 
+- [[Soft goat cheese]] and [[cherry preserves]] on [[Almond-Rice Bread]] #lunch 
+- [[Red grapes]]
+- [[Rice pudding]] #snack 
+- [[Boiled red potatoes]]
+- [[Cream of Rice]] with [[Dried Cherries]] and [[soy-rice milk]] #breakfast 
+- [[Papaya]] #snack 
+- [[Almond butter]] and [[Banana|sliced bananas]] on [[Ezekiel bread]] #lunch 
+- [[Blueberry oat muffin]] #snack 
+- [[Bose pear]] #snack 
+- [[Cottage cheese with pineapple and papaya]] #breakfast 
+- [[Spelt bread]] with [[grape jelly]] #breakfast 
+- [[Goat milk]] #snack 
+- [[Quinoa pasta with sauteed peppers and goat cheese]] #lunch 
+- [[Steamed Brussels sprouts]]
+- [[Dried figs]] and [[Dried dates]] #snack 
+- [[Fish soup]] #lunch #soup
+- [[Spelt baguette]] #lunch 
+- [[Carrot-raisin salad]] #lunch #salad
+- [[Rice crackers]] with [[Goat Cheese]] #snack 
+- [[Scrambled eggs]] #breakfast 
+- [[Oat bread |Oat toast]] with [[orange marmalade]] #breakfast 
+- [[Fresh figs]] #snack 
+- [[Mozzarella]] with [[sauteed zucchini and garlic]] on [[Spelt baguette]] #lunch 
+- [[Lemon curd square]] #snack 
+- [[Turkey burger with mango chutney]]
+- [[Homemade granola]] with [[Banana|sliced bananas]] #breakfast 
+- [[Concord grapes]] #snack 
+- [[Orange-yogurt smoothie]] #snack 
+- [[Beef burger]] #lunch 
+- [[Cranberry oat muffin]] #snack 
+- [[Broiled cod]]
+- [[Grilled peppers and goat cheese]] on [[spelt bread]] #lunch 
+- [[Kefir-banana smoothie]] #snack 
+- [[Miso soup]] #breakfast 
+- [[Brown rice]] #breakfast 
+- [[Salted sliced cucumbers]] #breakfast 
+- [[Sardines]] on [[oat bread]] #lunch 
+- [[Sweet potato fritters]]
+- [[Pineapple upside-down cake]] #dessert
+- [[Gruyere omelet]] #breakfast 
+- [[Sauteed grouper]]
+- [[Spelt bread |Spelt toast]] with [[Cherry preserves]] #breakfast 
+- [[Kefir and pineapple smoothie]] #snack #smoothie
+- [[Kidney bean and butternut squash soup]] #lunch #soup 
+- [[Wasa bread]] with [[Monterery Jack cheese]] #lunch 
+- [[Yogurt]] with [[Pineapple chunks]], [[Papaya]], and [[Banana]] #breakfast 
+- [[Pear muffin]] Fleeting:: is this the same a [[Pear spelt muffin]] #snack 
+- [[Curried turkey salad]] on [[Ezekiel bread]] #lunch 
+- [[Homemade gatorade]] #drink
+- [[Baked sweet potato]]
+- [[Mango-pineapple chutney]]
+- [[Banana-walnut muffin]]
+- [[Yogurt]] with [[Honey]] and [[Raisins]]
+- [[Mesclun salad]]
+- [[Basmati rice]]
+- [[Oatmeal cookie]]
+- [[Cottage cheese]] with [[Banana|sliced bananas]] and [[Honey]]
+- [[Spelt bread|Spelt toast]] with [[Plum preserves]] 
+- [[Rice cakes]] with [[Soy butter]] and [[Cherry jam]]
+- [[Apple celery and walnut salad]] with [[yogurt-honey dressing]]
+- [[Roasted potatoes with garlic and rosemary]]
+- [[Baked acorn squash]] with [[butter]] and [[Honey]]
+- [[Pineapple-yogurt shake]] #breakfast 
+- [[Pineapple bread]]
+- [[Simple fish soup]]
+- [[Red and yellow peppers with curry dip]]
+- Fresh sliced [[Mango]] and [[Peach|Peaches]]
+- [[Rose water lassi]]
+- [[Millet-spelt-soy pancakes]] with [[maple syrup]]
+- [[Vanilla-nut coffee]] with [[Milk]] #breakfast 
+- [[Banana-peach yogurt shake]]
+- [[Tuna melt on spelt bread with lettuce and tomato]]
+- [[Carrot-ginger juice]]
+- [[Grilled lamb sausages]]
+- [[Single-egg omelet with broccoli and cheddar]] #breakfast 
+- [[Alder-smoked mackerel salad]] on [[Spelt bread]]
+- [[Romaine salad with feta]]
+- [[Apple]]
+- [[Spelt French bread]]
+- [[Poached fruit]]
+- [[Seafood Soup]] #favorite
+- [[Puffed rice cereal]] with [[Milk]] and [[Banana]]
+- [[Dried apricots]] and [[Papaya]]
+- [[Cucumber-yogurt soup]] #soup 
+- [[Banana-plum cake]]
+- [[Rice cakes]] with [[Almond butter]] and [[grape jelly]]
+- [[Broiled sole]]
+- [[Roasted potatoes with garlic and rosemary]]
+- [[Sauteed broccoli rabe and onions]]
+- [[Apricot-yogurt shake]]
+- [[Raisin toast]] with [[butter]]
+- [[Carrot sticks]] with [[Dill cottage cheese dip]]
+- [[Lima bean salad]] with [[Goat Cheese]]
+- [[Hot turkey broth]] #snack 
+- [[Venison stew]]
+- [[Sauteed apples and pears]] with [[Raisins]]
+- [[Spelt French bread]]
+- [[French toast]] with [[maple syrup]]
+- [[Cottage cheese]] with [[Grated carrots and jieama on romaine]] with [[Balsamic honey-mustard dressing]]
+- [[Grilled flank steak]]
+- [[Grilled red and yellow peppers and zucchini]]
+- [[Brown rice pilaf]]
+- [[Egg omelet with leftover vegatables]] and [[Goat Cheese]]
+- [[Greek Salad]]
+- [[Spelt roll]]
+- [[Cranberry juice]]
+- [[Roast turkey]]
+- [[Sweet potato puree]]
+- [[Cranberry dressing]]
+- [[Green beans with balsamic vinaigrette]]
+- [[Oatmeal]] with [[Milk]] and [[Dried Cherries]]
+- [[Papaya smoothie]]
+- [[Turkey soup]]
+- [[Apple]] with [[Cheddar cheese]]
+- [[Grilled lamb chops]]
+- [[Grilled eggplant and red peppers]] with [[Goat Cheese]]
+- [[Green salad]] with [[Lemon and olive oil dressing]]
+- [[No Tomato Tomato Sauce]] #dressing-sauce
+- 
+
+---
+- prev: [[]]
+- source: [[Cook Right For Your Type]]
+- see also: [[]] 
